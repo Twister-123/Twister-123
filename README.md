@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Via email u can reach me
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I'm not w coder
+- ⚡ Fun fact: ... I'm not a coder
 
 <!---
 Twister-123/Twister-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
